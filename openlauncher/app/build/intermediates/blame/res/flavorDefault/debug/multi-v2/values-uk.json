@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yunfeiguo/Desktop/openlauncher/app/build/intermediates/incremental/mergeFlavorDefaultDebugResources/merged.dir/values-uk/values-uk.xml",
+            "map": [
+                {
+                    "source": "/Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e86118a5628ea0e09293c3d9b030b34c/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2077",
+                        "endColumns": "100",
+                        "endOffsets": "2173"
+                    }
+                },
+                {
+                    "source": "/Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bd69b76fa0996700b09c9b6676f18e5/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,317,423,509,617,735,814,894,975,1081,1188,1286,1394,1500,1609,1779,1879",
+                        "endColumns": "109,101,105,85,107,117,78,79,80,105,106,97,107,105,108,169,99,80",
+                        "endOffsets": "210,312,418,504,612,730,809,889,970,1076,1183,1281,1389,1495,1604,1774,1874,1955"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,317,423,509,617,735,814,894,975,1081,1188,1286,1394,1500,1609,1779,1996",
+                        "endColumns": "109,101,105,85,107,117,78,79,80,105,106,97,107,105,108,169,99,80",
+                        "endOffsets": "210,312,418,504,612,730,809,889,970,1076,1183,1281,1389,1495,1604,1774,1874,2072"
+                    }
+                },
+                {
+                    "source": "/Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/b4564643c34531b099fe5445de84d2bb/res/values-uk/strings.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "785,717",
+                        "endColumns": "49,66",
+                        "endOffsets": "830,779"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1879,1929",
+                        "endColumns": "49,66",
+                        "endOffsets": "1924,1991"
+                    }
+                }
+            ]
+        }
+    ]
+}

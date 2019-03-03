@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="app_name" translatable="false">OpenLauncher</string>
+    <string name="manifest_package_id" translatable="false">com.benny.openlauncher</string>
+
+</resources>

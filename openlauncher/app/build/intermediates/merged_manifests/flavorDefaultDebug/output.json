@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":37,"versionName":"0.6.1","enabled":true,"outputFile":"app-flavorDefault-debug.apk","fullName":"flavorDefaultDebug","baseName":"flavorDefault-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.benny.openlauncher.debug","split":"","minSdkVersion":"17"}}]

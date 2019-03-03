@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yunfeiguo/Desktop/openlauncher/app/build/intermediates/incremental/mergeFlavorDefaultDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bd69b76fa0996700b09c9b6676f18e5/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

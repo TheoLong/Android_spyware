@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yunfeiguo/Desktop/openlauncher/app/build/intermediates/incremental/mergeFlavorDefaultDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "/Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e86118a5628ea0e09293c3d9b030b34c/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1906",
+                        "endColumns": "100",
+                        "endOffsets": "2002"
+                    }
+                },
+                {
+                    "source": "/Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bd69b76fa0996700b09c9b6676f18e5/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1489,1639,1733",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,99,149,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1484,1634,1728,1806"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1489,1639,1828",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,99,149,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1484,1634,1728,1901"
+                    }
+                },
+                {
+                    "source": "/Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/b4564643c34531b099fe5445de84d2bb/res/values-zh-rTW/strings.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "768,717",
+                        "endColumns": "44,49",
+                        "endOffsets": "808,762"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1733,1778",
+                        "endColumns": "44,49",
+                        "endOffsets": "1773,1823"
+                    }
+                }
+            ]
+        }
+    ]
+}

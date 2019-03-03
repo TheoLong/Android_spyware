@@ -1,0 +1,393 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:108:9-116:20
+	android:grantUriPermissions
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:112:13-47
+	android:authorities
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:110:13-60
+	android:exported
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:111:13-37
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:109:13-67
+manifest
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+MERGED from [agency.tango.android:material-intro-screen:0.0.5] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/material-intro-screen-0.0.5.aar/f74532351288ca5b621f1be20a9d2e36/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e53a0958a7839106e3598a1a61bca9e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/preference-v14-27.1.1.aar/b782cb2622833a9e7eb1f1015156dc9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/c85b34e4e864c79a1248485e50c25c30/AndroidManifest.xml:17:1-22:12
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.7] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.7.aar/a9bcd4ed924aedef1578443c9e1d9bda/AndroidManifest.xml:2:1-12:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/c030b810a75b4c2fb7bd323461d0b564/AndroidManifest.xml:2:1-15:12
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/filepicker-4.2.1.aar/4f6e998f8f989b03516c5d1c2806633a/AndroidManifest.xml:7:1-19:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/18d80d4289abcc48abb2fe4d6ebdbf77/AndroidManifest.xml:17:1-22:12
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:2:1-23:12
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/b4564643c34531b099fe5445de84d2bb/AndroidManifest.xml:16:6-20:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/e0bd2b20e267a12558a0d31ad0eae094/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bd69b76fa0996700b09c9b6676f18e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/a59e0c82c8c5e6261c79057abb8f008d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/19852e6e8a965e2c4f32d3a3203c44fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8ecf3c36492a340ed3af034a518f4d72/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:fastadapter:3.2.3] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-3.2.3.aar/e2cf73953019ec7665a0a51d462c79ec/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter-commons:3.0.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-commons-3.0.0.aar/fd5b3c6d82c374876d3709b6d047e49c/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter-extensions:3.0.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-3.0.0.aar/96b4cab5f208f537752d2e6942cba3e1/AndroidManifest.xml:2:1-12:12
+MERGED from [in.championswimmer:SimpleFingerGestures_Android_Library:1.2] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/SimpleFingerGestures_Android_Library-1.2.aar/21e4bf723132006c180a8a836682952c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/CircularReveal-2.0.1.aar/9c3f8547ec6dccde9b36cbf3d4867e83/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.turing-tech:MaterialScrollBar:12.4.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/MaterialScrollBar-12.4.0.aar/a96ddf8ced08c917e1a3c7272c6680dc/AndroidManifest.xml:2:1-10:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c912848b83cfe4e12c8fe5ef27618896/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9336820f84eaf13194b7ff2f08e175c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/553a693e35989be43cee5ac48039fbfb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2f9922d9e0acab8bf37817c78092c409/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63e626750218315d5d075460bd8a8a16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a094745ef5ff1f13ede816e24c8c54b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f5dd3f1262447a9334c207596868730a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/69e39a07ddadd3f5851d3891640070c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7a329d7bf118e7e0e8fb7a5512df8b60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e86118a5628ea0e09293c3d9b030b34c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1d42bee6527a87410b9c3db6670a3f3f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96b869f7e227fc58839f9407733e99d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cbcd9488a794735aa2aac986d5a6a304/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/445e77019d2ddd3d6ffd7d1994c5fa42/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+	package
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:1-118:12
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:7:22-79
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:13:5-14:47
+	tools:ignore
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:13:22-70
+application
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:16:5-117:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/c030b810a75b4c2fb7bd323461d0b564/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/c030b810a75b4c2fb7bd323461d0b564/AndroidManifest.xml:13:5-20
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/filepicker-4.2.1.aar/4f6e998f8f989b03516c5d1c2806633a/AndroidManifest.xml:17:5-20
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/filepicker-4.2.1.aar/4f6e998f8f989b03516c5d1c2806633a/AndroidManifest.xml:17:5-20
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:11:5-21:19
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:11:5-21:19
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/b4564643c34531b099fe5445de84d2bb/AndroidManifest.xml:19:5-19
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/b4564643c34531b099fe5445de84d2bb/AndroidManifest.xml:19:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8ecf3c36492a340ed3af034a518f4d72/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8ecf3c36492a340ed3af034a518f4d72/AndroidManifest.xml:9:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/CircularReveal-2.0.1.aar/9c3f8547ec6dccde9b36cbf3d4867e83/AndroidManifest.xml:10:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/CircularReveal-2.0.1.aar/9c3f8547ec6dccde9b36cbf3d4867e83/AndroidManifest.xml:10:5-20
+	android:stateNotNeeded
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:23:9-38
+	android:label
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:20:9-41
+	android:launchMode
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:22:9-40
+	android:hardwareAccelerated
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:18:9-43
+	android:largeHeap
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:21:9-34
+	android:icon
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:25:9-42
+	android:taskAffinity
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:24:9-32
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:17:9-56
+meta-data#android.max_aspect
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:27:9-29:35
+	android:value
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:29:13-32
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:28:13-46
+activity#com.benny.openlauncher.activity.OnBoardActivity
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:31:9-40:20
+	android:clearTaskOnLaunch
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:33:13-45
+	android:label
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:35:13-46
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:32:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.benny.openlauncher.activity.HomeActivity
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:41:9-54:20
+	android:clearTaskOnLaunch
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:45:13-45
+	android:stateNotNeeded
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:46:13-42
+	android:label
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:43:13-45
+	android:launchMode
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:44:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:48:13-56
+	android:taskAffinity
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:42:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:49:13-53:29
+category#android.intent.category.HOME
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:51:17-73
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:51:27-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:52:27-73
+activity#com.benny.openlauncher.activity.AutoFinishActivity
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:55:9-57:86
+	android:theme
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:57:13-83
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:56:13-78
+activity#com.benny.openlauncher.activity.MinibarEditActivity
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:58:9-62:59
+	android:parentActivityName
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:61:13-86
+	android:label
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:60:13-38
+	android:theme
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:62:13-56
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:59:13-79
+activity#com.benny.openlauncher.activity.SettingsActivity
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:63:9-67:59
+	android:label
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:66:13-37
+	android:configChanges
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:65:13-68
+	android:theme
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:64:13-76
+activity#com.benny.openlauncher.activity.HideAppsActivity
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:68:9-71:59
+	android:label
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:70:13-45
+	android:theme
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:69:13-76
+activity#com.benny.openlauncher.activity.MoreInfoActivity
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:72:9-79:20
+	android:parentActivityName
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:74:13-90
+	android:theme
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:73:13-76
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:76:13-78:84
+	android:value
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:78:17-81
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:77:17-63
+activity#com.nononsenseapps.filepicker.FilePickerActivity
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:80:9-88:20
+	android:label
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:82:13-45
+	android:theme
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:83:13-51
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:81:13-76
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.GET_CONTENT
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:85:17-76
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:85:25-73
+receiver#com.benny.openlauncher.receivers.DeviceAdminReceiver
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:90:9-99:20
+	android:permission
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:92:13-70
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:91:13-80
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:93:13-95:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:94:17-82
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:94:25-79
+meta-data#android.app.device_admin
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:96:13-98:56
+	android:resource
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:98:17-53
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:97:17-56
+receiver#com.benny.openlauncher.receivers.ShortcutReceiver
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:100:9-106:20
+	android:permission
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:102:13-82
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:101:13-77
+intent-filter#action:name:com.android.launcher.action.INSTALL_SHORTCUT
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:103:13-105:29
+action#com.android.launcher.action.INSTALL_SHORTCUT
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:104:17-87
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:104:25-84
+uses-sdk
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+MERGED from [agency.tango.android:material-intro-screen:0.0.5] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/material-intro-screen-0.0.5.aar/f74532351288ca5b621f1be20a9d2e36/AndroidManifest.xml:8:5-10:41
+MERGED from [agency.tango.android:material-intro-screen:0.0.5] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/material-intro-screen-0.0.5.aar/f74532351288ca5b621f1be20a9d2e36/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e53a0958a7839106e3598a1a61bca9e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e53a0958a7839106e3598a1a61bca9e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/preference-v14-27.1.1.aar/b782cb2622833a9e7eb1f1015156dc9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/preference-v14-27.1.1.aar/b782cb2622833a9e7eb1f1015156dc9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/c85b34e4e864c79a1248485e50c25c30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/c85b34e4e864c79a1248485e50c25c30/AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.7] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.7.aar/a9bcd4ed924aedef1578443c9e1d9bda/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.7] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.7.aar/a9bcd4ed924aedef1578443c9e1d9bda/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/c030b810a75b4c2fb7bd323461d0b564/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/c030b810a75b4c2fb7bd323461d0b564/AndroidManifest.xml:8:5-11:75
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/filepicker-4.2.1.aar/4f6e998f8f989b03516c5d1c2806633a/AndroidManifest.xml:13:5-15:41
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/filepicker-4.2.1.aar/4f6e998f8f989b03516c5d1c2806633a/AndroidManifest.xml:13:5-15:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/18d80d4289abcc48abb2fe4d6ebdbf77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/18d80d4289abcc48abb2fe4d6ebdbf77/AndroidManifest.xml:20:5-44
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:7:5-9:41
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:7:5-9:41
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/b4564643c34531b099fe5445de84d2bb/AndroidManifest.xml:18:5-72
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/b4564643c34531b099fe5445de84d2bb/AndroidManifest.xml:18:5-72
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/e0bd2b20e267a12558a0d31ad0eae094/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/e0bd2b20e267a12558a0d31ad0eae094/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bd69b76fa0996700b09c9b6676f18e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bd69b76fa0996700b09c9b6676f18e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/a59e0c82c8c5e6261c79057abb8f008d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/a59e0c82c8c5e6261c79057abb8f008d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/19852e6e8a965e2c4f32d3a3203c44fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/19852e6e8a965e2c4f32d3a3203c44fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8ecf3c36492a340ed3af034a518f4d72/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/8ecf3c36492a340ed3af034a518f4d72/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter:3.2.3] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-3.2.3.aar/e2cf73953019ec7665a0a51d462c79ec/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.3] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-3.2.3.aar/e2cf73953019ec7665a0a51d462c79ec/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-commons:3.0.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-commons-3.0.0.aar/fd5b3c6d82c374876d3709b6d047e49c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-commons:3.0.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-commons-3.0.0.aar/fd5b3c6d82c374876d3709b6d047e49c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions:3.0.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-3.0.0.aar/96b4cab5f208f537752d2e6942cba3e1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions:3.0.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-3.0.0.aar/96b4cab5f208f537752d2e6942cba3e1/AndroidManifest.xml:8:5-10:41
+MERGED from [in.championswimmer:SimpleFingerGestures_Android_Library:1.2] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/SimpleFingerGestures_Android_Library-1.2.aar/21e4bf723132006c180a8a836682952c/AndroidManifest.xml:7:5-9:41
+MERGED from [in.championswimmer:SimpleFingerGestures_Android_Library:1.2] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/SimpleFingerGestures_Android_Library-1.2.aar/21e4bf723132006c180a8a836682952c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/CircularReveal-2.0.1.aar/9c3f8547ec6dccde9b36cbf3d4867e83/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/CircularReveal-2.0.1.aar/9c3f8547ec6dccde9b36cbf3d4867e83/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.turing-tech:MaterialScrollBar:12.4.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/MaterialScrollBar-12.4.0.aar/a96ddf8ced08c917e1a3c7272c6680dc/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.turing-tech:MaterialScrollBar:12.4.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/MaterialScrollBar-12.4.0.aar/a96ddf8ced08c917e1a3c7272c6680dc/AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c912848b83cfe4e12c8fe5ef27618896/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c912848b83cfe4e12c8fe5ef27618896/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9336820f84eaf13194b7ff2f08e175c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9336820f84eaf13194b7ff2f08e175c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/553a693e35989be43cee5ac48039fbfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/553a693e35989be43cee5ac48039fbfb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2f9922d9e0acab8bf37817c78092c409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2f9922d9e0acab8bf37817c78092c409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63e626750218315d5d075460bd8a8a16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/63e626750218315d5d075460bd8a8a16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a094745ef5ff1f13ede816e24c8c54b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a094745ef5ff1f13ede816e24c8c54b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f5dd3f1262447a9334c207596868730a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f5dd3f1262447a9334c207596868730a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/69e39a07ddadd3f5851d3891640070c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/69e39a07ddadd3f5851d3891640070c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7a329d7bf118e7e0e8fb7a5512df8b60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7a329d7bf118e7e0e8fb7a5512df8b60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e86118a5628ea0e09293c3d9b030b34c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e86118a5628ea0e09293c3d9b030b34c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1d42bee6527a87410b9c3db6670a3f3f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1d42bee6527a87410b9c3db6670a3f3f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96b869f7e227fc58839f9407733e99d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96b869f7e227fc58839f9407733e99d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cbcd9488a794735aa2aac986d5a6a304/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/cbcd9488a794735aa2aac986d5a6a304/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/445e77019d2ddd3d6ffd7d1994c5fa42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/445e77019d2ddd3d6ffd7d1994c5fa42/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/c030b810a75b4c2fb7bd323461d0b564/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:113:13-115:54
+	android:resource
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:115:17-51
+	android:name
+		ADDED from /Users/yunfeiguo/Desktop/openlauncher/app/src/main/AndroidManifest.xml:114:17-67
+activity#cat.ereza.customactivityoncrash.activity.DefaultErrorActivity
+ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:12:9-14:49
+	android:process
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:14:13-46
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:13:13-89
+provider#cat.ereza.customactivityoncrash.provider.CaocInitProvider
+ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:16:9-20:39
+	android:authorities
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:18:13-85
+	android:exported
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:19:13-37
+	android:initOrder
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] /Users/yunfeiguo/.gradle/caches/transforms-1/files-1.1/customactivityoncrash-2.2.0.aar/aba0b5a81b6814a93341e47e635a7225/AndroidManifest.xml:17:13-85

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="about_credit">Contribuidores</string>
+    <string name="about_credit_text_all_contributors">Todos los contribuidores</string>
+    <string name="about_libs">Librerías de Código Abierto</string>
+    <string name="about_rate">Calificar</string>
+    <string name="action">Acción</string>
+    <string name="columns">Columnas</string>
+    <string name="dark">Oscuro</string>
+    <string name="default_folder">Sin nombre</string>
+    <string name="default_icons">Por defecto</string>
+    <string name="edit">Editar</string>
+    <string name="home">Pantalla ppal.</string>
+    <string name="horizontal_paged_drawer">Paginado</string>
+    <string name="info">Info</string>
+    <string name="intro1_community">Un lanzador de apps de la comunidad para la comunidad</string>
+    <string name="intro1_customizable">Personalizable</string>
+    <string name="intro1_features">Con muchas funcionalidades</string>
+    <string name="intro2_text">Desliza hacia adentro desde el borde izquierdo de tu pantalla de inicio para abrir la barra lateral. Allí podrás encontrar los ajustes,
+        cambiar el fondo de pantalla, y hacer un montón de otras cosas.</string>
+    <string name="intro3_text">Puedes configurar tu escritorio, el cajón de aplicaciones y el dock, ¡pruébalo!</string>
+    <string name="light">Claro</string>
+    <string name="lock">Bloquear</string>
+    <string name="minibar">Barra lateral</string>
+    <string name="minibar_summary__app_drawer">Abrir el cajón de aplicaciones.</string>
+    <string name="minibar_summary__device_settings">Atajo a los ajustes del dispositivo.</string>
+    <string name="minibar_summary__edit_minibar">Cambia el diseño de la barra lateral.</string>
+    <string name="minibar_summary__launcher_settings">Atajo a los ajustes de OpenLauncher.</string>
+    <string name="minibar_summary__lock_screen">Bloquea la pantalla inmediatamente, requiere ser administrador del dispositivo.</string>
+    <string name="minibar_summary__set_wallpaper">Establece o difumina el fondo de pantalla.</string>
+    <string name="minibar_summary__volume_dialog">Desplegar el panel de volumen.</string>
+    <string name="off">Apagado</string>
+    <string name="on">Encendido</string>
+    <string name="placeholder">¡Hola Mundo!</string>
+    <string name="please_wait">Buscando aplicaciones instaladas. Por favor, espera.</string>
+    <string name="pref_dialog__search_bar_base_uri">Ingresa la URI que se debe utilizar para las búsquedas en la web. La etiqueta {query} puede ser utilizada como
+      marcador de posición para las búsquedas, en caso de que no se utilice un marcador de posición la consulta de búsqueda se anexará al final del URI.</string>
+    <string name="pref_summary__backup">Resguarda y restaura tus ajustes.</string>
+    <string name="pref_summary__desktop_fullscreen">Habilita la pantalla completa para el escritorio.</string>
+    <string name="pref_summary__desktop_rotate">Permitir la rotación de la pantalla.</string>
+    <string name="pref_summary__desktop_show_label">Muestra las etiquetas de los ítems debajo de sus íconos.</string>
+    <string name="pref_summary__desktop_show_position_indicator">Muestra el indicador de página debajo del escritorio.</string>
+    <string name="pref_summary__dock_show_label">Mostrar las etiquetas de los ítems debajo de sus íconos.</string>
+    <string name="pref_summary__drawer_remember_position">Recordar la actual página del cajón de aplicaciones.</string>
+    <string name="pref_summary__drawer_show_card_view">Muestra una tarjeta sobre el fondo del cajón.</string>
+    <string name="pref_summary__drawer_show_label">Muestra las etiquetas de los ítems debajo de sus iconos.</string>
+    <string name="pref_summary__drawer_show_position_indicator">Muestra el indicador de página o la barra de desplazamiento dependiendo del estilo.</string>
+    <string name="pref_summary__drawer_style">Elige entre un cajón de aplicaciones paginado o vertical.</string>
+    <string name="pref_summary__gesture_feedback">Obtener reacción animada cuando se presiona sobre un ítem en el escritorio.</string>
+    <string name="pref_summary__gesture_quick_swipe">Desliza hacia arriba desde el dock para abrir el cajón de aplicaciones.</string>
+    <string name="pref_summary__hide_apps">Esconde las aplicaciones seleccionadas desde el lanzador de aplicaciones.</string>
+    <string name="pref_summary__icon_pack">Selecciona un paquete de iconos instalado.</string>
+    <string name="pref_summary__icon_size">Tamaño de los iconos de todas las aplicaciones.</string>
+    <string name="pref_summary__language">Cambia el lenguaje de esta aplicación. Reinicia para que los cambios surtan efecto.</string>
+    <string name="pref_summary__minibar">Configura el orden y la visibilidad de los ítems de la minibar.</string>
+    <string name="pref_summary__primary_color">Configura el color principal para la aplicación.</string>
+    <string name="pref_summary__reset_database">Elimina los datos del dock y el escritorio para solucionar problemas.</string>
+    <string name="pref_summary__restart">Reinicia el lanzador de aplicaciones si tiene un comportamiento anómalo.</string>
+    <string name="pref_summary__search_bar_base_uri">Establece el URI utilizado para las búsquedas en la web.</string>
+    <string name="pref_summary__search_bar_enable">Muestra una barra de búsqueda encima del escritorio.</string>
+    <string name="pref_summary__search_bar_force_browser">Siempre usar el navegador para búsquedas en línea.</string>
+    <string name="pref_summary__search_bar_show_hidden_apps">Mostrar aplicaciones escondidas en los resultados de búsqueda.</string>
+    <string name="pref_summary__theme">Configura el tema para la aplicación.</string>
+    <string name="pref_title__about">Acerca de</string>
+    <string name="pref_title__app_drawer">Cajón de aplicaciones</string>
+    <string name="pref_title__appearance">Apariencia</string>
+    <string name="pref_title__backup">Copia de seguridad</string>
+    <string name="pref_title__color">Colores</string>
+    <string name="pref_title__debug">Depuración</string>
+    <string name="pref_title__desktop">Escritorio</string>
+    <string name="pref_title__desktop_background_color">Fondo</string>
+    <string name="pref_title__desktop_folder_color">Carpeta</string>
+    <string name="pref_title__desktop_fullscreen">Pantalla completa</string>
+    <string name="pref_title__desktop_indicator_style">Estilo del indicador</string>
+    <string name="pref_title__desktop_rotate">Rotar</string>
+    <string name="pref_title__desktop_show_label">Mostrar las etiquetas</string>
+    <string name="pref_title__desktop_show_position_indicator">Indicador de posición</string>
+    <string name="pref_title__dock">Dock</string>
+    <string name="pref_title__dock_background_color">Fondo</string>
+    <string name="pref_title__dock_show_label">Mostrar las etiquetas.</string>
+    <string name="pref_title__drawer_background_color">Fondo</string>
+    <string name="pref_title__drawer_card_color">Vista de tarjeta</string>
+    <string name="pref_title__drawer_fast_scroll_color">Desplazamiento vertical acelerado</string>
+    <string name="pref_title__drawer_label_color">Etiqueta</string>
+    <string name="pref_title__drawer_remember_position">Recuerda la última página</string>
+    <string name="pref_title__drawer_show_card_view">Vista de tarjetas</string>
+    <string name="pref_title__drawer_show_label">Muestra las etiquetas</string>
+    <string name="pref_title__drawer_show_position_indicator">Indicador de posición</string>
+    <string name="pref_title__drawer_style">Estilo</string>
+    <string name="pref_title__feels">Apariencia</string>
+    <string name="pref_title__gesture_double_tap">Doble toque</string>
+    <string name="pref_title__gesture_feedback">Reacción a toques</string>
+    <string name="pref_title__gesture_pinch">Ampliación</string>
+    <string name="pref_title__gesture_quick_swipe">Deslizamiento rápido del cajón</string>
+    <string name="pref_title__gesture_swipe_down">Deslizamiento hacia abajo</string>
+    <string name="pref_title__gesture_swipe_up">Deslizamiento hacia arriba</string>
+    <string name="pref_title__gesture_unpinch">Reducción</string>
+    <string name="pref_title__gestures">Gestos</string>
+    <string name="pref_title__hide_apps">Esconder apps</string>
+    <string name="pref_title__icon_pack">Paquete de iconos</string>
+    <string name="pref_title__icons">Íconos</string>
+    <string name="pref_title__inputs">Entradas</string>
+    <string name="pref_title__interfaces">Interfaces</string>
+    <string name="pref_title__language">Idioma</string>
+    <string name="pref_title__miscellaneous">Miscelaneas</string>
+    <string name="pref_title__others">Otros</string>
+    <string name="pref_title__primary_color">Color principal</string>
+    <string name="pref_title__reset_database">Limpia la base de datos</string>
+    <string name="pref_title__restart">Reiniciar</string>
+    <string name="pref_title__search_bar">Barra de búsqueda</string>
+    <string name="pref_title__search_bar_base_uri">URI del buscador</string>
+    <string name="pref_title__search_bar_enable">Barra de búsqueda</string>
+    <string name="pref_title__search_bar_force_browser">Forzar búsqueda a través del navegador</string>
+    <string name="pref_title__search_bar_show_hidden_apps">Mostrar apps escondidas</string>
+    <string name="pref_title__settings">Ajustes</string>
+    <string name="pref_title__size">Tamaño</string>
+    <string name="pref_title__style">Estilo</string>
+    <string name="pref_title__theme">Tema</string>
+    <string name="remove">Eliminar</string>
+    <string name="rows">Filas</string>
+    <string name="search_hint">Buscar…</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="select_app">Selecciona la aplicación</string>
+    <string name="select_icon_pack">Escoger paquete de íconos</string>
+    <string name="select_wallpaper">Escoger fondo de pantalla</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="toast_app_uninstalled">App desinstalada.</string>
+    <string name="toast_backup_error">Algo salió mal.</string>
+    <string name="toast_backup_success">Hecho.</string>
+    <string name="toast_device_admin_required">Por favor, habilita la opción de adminsitración de dispositivo.</string>
+    <string name="toast_icon_pack_error">Incapaz de seleccionar el ícono sin el permiso READ_EXTERNAL_STORAGE.</string>
+    <string name="toast_not_enough_space">No hay suficiente espacio.</string>
+    <string name="uninstall">Desinstalar</string>
+    <string name="version">Versión</string>
+    <string name="vertical_scroll_drawer">Vertical</string>
+    <string name="volume_level_media">Multimedia</string>
+    <string name="volume_level_notification">Notificaciones</string>
+    <string name="volume_level_ringtone">Tono de llamada</string>
+    <string name="volume_level_system">Sistema</string>
+    <string name="widget">Widgets</string>
+</resources>

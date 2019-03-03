@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="28"
+    build-mode="FULL"
+    density="420dpi"
+    format="10"
+    plugin-version="3.3.1"
+    timestamp="1551576766173"
+    token="3031160871367363205"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4636" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3571" />
+    <task
+        name="verifier"
+        duration="3844" />
+
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/resources/instant-run/flavorDefault/debug/resources-flavorDefault-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/instant-run-apk/flavorDefault/debug/app-flavorDefault-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1551576766173"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/resources/instant-run/flavorDefault/debug/resources-flavorDefault-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/split-apk/flavorDefault/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/instant-run-apk/flavorDefault/debug/app-flavorDefault-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

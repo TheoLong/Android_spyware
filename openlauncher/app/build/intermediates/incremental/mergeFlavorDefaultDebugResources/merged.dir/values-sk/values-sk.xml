@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Prejsť hore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobraziť všetko"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTÉ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhľadať…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hľadať"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odoslať dopyt"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhľadávanie"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Zdieľať pomocou"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Zdieľať s aplikáciou <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zbaliť"</string>
+    <string name="about_credit">Prispievatelia</string>
+    <string name="about_credit_text_all_contributors">Všetci prispievatelia</string>
+    <string name="about_libs">Knižnice Open Source</string>
+    <string name="about_rate">Hodnotenie</string>
+    <string name="action">Akcia</string>
+    <string name="android_contribution_guide">Sprievodca prispievanín do androidu</string>
+    <string name="app">Spustiť aplikáciu</string>
+    <string name="are_you_sure">Ste si istý? Všetky vaše skratky budú odstránené.</string>
+    <string name="bad_format">Zlý formát</string>
+    <string name="bug_reports">Nahlásiť chybu</string>
+    <string name="bug_reports_suggest_improvements">Spätná väzba, nahlásenie chýb alebo odporúčanie vylepšení</string>
+    <string name="changelog">Zoznam zmien</string>
+    <string name="columns">Stĺpce</string>
+    <string name="contribute">Zapojte sa</string>
+    <string name="contribute_code_to_this_project_anybody_welcome">Zapojte sa do projektu. Každý, vrátane nováčikov je vítaný.</string>
+    <string name="contributors">Prispievatelia</string>
+    <string name="contributors_public_info">Zobraziť informácie o prispievateľoch. Prispievatelia môžu poskytnúť informácie ktoré sa tu budú zobrazovať (voliteľne) ak prispejú.</string>
+    <string name="custom">Prispôsobené</string>
+    <string name="dark">Tmavá</string>
+    <string name="default_folder">Bez mena</string>
+    <string name="default_icons">Prednastavené</string>
+    <string name="donate">Podporiť</string>
+    <string name="edit">Upraviť</string>
+    <string name="help">Pomoc</string>
+    <string name="help_this_app">Viac informácií o tejto aplikácii a nápoveda</string>
+    <string name="help_translating_this_app">Preklad tejto aplikácie do iných jazykov</string>
+    <string name="home">Domov</string>
+    <string name="horizontal_paged_drawer">Stránkované</string>
+    <string name="info">Info</string>
+    <string name="intro1_community">Spúštač z komunity pre komunitu</string>
+    <string name="intro1_customizable">Prispôsobiteľný</string>
+    <string name="intro1_features">Pribalené funkcie</string>
+    <string name="intro2_text">Potiahnutím od ľavého okraja do stredu na ploche za zobrazí mini panel. Tam nájdete nastavenia, môžete zmeniť tapetu a mnoho ďalších vecí.</string>
+    <string name="intro3_text">Môžete si nastaviť plochu, spúšťač aplikácií, dokovaciu oblasť, vyskúšajte si to!</string>
+    <string name="join_community">Pridajte sa ku komunite</string>
+    <string name="licenses">Licencie</string>
+    <string name="light">Svetlá</string>
+    <string name="lock">Zámok</string>
+    <string name="minibar">Mini lišta</string>
+    <string name="minibar_summary__app_drawer">Otvoriť zoznam aplikácií.</string>
+    <string name="minibar_summary__device_settings">Skratka k nastaveniam zariadenia.</string>
+    <string name="minibar_summary__edit_minibar">Zmeniť rozloženie mini panela.</string>
+    <string name="minibar_summary__launcher_settings">Skratka k nastaveniam OpenLaunchera.</string>
+    <string name="minibar_summary__lock_screen">Okamžité uzamknutie obrazovky vyžaduje práva správcu zariadenia</string>
+    <string name="minibar_summary__mobile_network">Nastavenie mobilnej siete</string>
+    <string name="minibar_summary__set_wallpaper">Rozostriť tapetu</string>
+    <string name="minibar_summary__volume_dialog">Zobraziť posuvník hlasitosti.</string>
+    <string name="minibar_title__app_drawer">Otvoriť zoznam aplikácií.</string>
+    <string name="minibar_title__device_settings">Nastavenie zariadenia</string>
+    <string name="minibar_title__edit_minibar">Nastavenia mini lišty</string>
+    <string name="minibar_title__launcher_settings">Nastavenia spúštača</string>
+    <string name="minibar_title__lock_screen">Zamknúť obrazovku</string>
+    <string name="minibar_title__set_wallpaper">Nastaviť tapetu</string>
+    <string name="minibar_title__volume_dialog">Nastavenia zvuku</string>
+    <string name="more">Viac</string>
+    <string name="more_info_on_how_to_contribute_to_foss_android_projects">Viac informácií o prispievaní do Open Source projektov, špeciálne pre Androidové aplikácie</string>
+    <string name="more_info_on_how_to_contribute_to_this_project">Viac informácií o prispievaní</string>
+    <string name="more_info_on_how_to_donate_or_otherwise_support_this_project">VIac informácií pre príspevky alebo ďalšie možnosti podpory projektu</string>
+    <string name="none">Žiadne</string>
+    <string name="off">Vyp.</string>
+    <string name="on">Zap.</string>
+    <string name="open_source_licenses">Open Source licencie</string>
+    <string name="placeholder">Ahoj svet!</string>
+    <string name="please_wait">Vyhľadávanie nainštalovaných aplikácií. Prosím čakajte.</string>
+    <string name="pref_dialog__search_bar_base_uri">Vložte URI, ktoré sa bude používať pre vyhľadávanie na webe. Značka {query} bude nahradená hľadaným výrazom. Ak nepoužijete značku, hľadaný výraz sa pripojí na koniec URI.</string>
+    <string name="pref_summary__animation_speed_modifier">Upraviť celkovú rýchlosť animácie</string>
+    <string name="pref_summary__backup">Záloha a obnovenie nastavení</string>
+    <string name="pref_summary__desktop_fullscreen">Povoliť režim celej obrazovky pre plochu</string>
+    <string name="pref_summary__desktop_rotate">Povoliť otáčanie obrazovky.</string>
+    <string name="pref_summary__desktop_show_label">Zobrazovať štítky s názvom pod ikonami.</string>
+    <string name="pref_summary__desktop_show_position_indicator">Zobrazovať indikátor strany pod plochou.</string>
+    <string name="pref_summary__dock_show_label">Zobrazovať štítky s názvom pod ikonami.</string>
+    <string name="pref_summary__drawer_remember_position">Pamätať si aktuálnu stranu v zozname aplikácií.</string>
+    <string name="pref_summary__drawer_show_card_view">Zobrazovať karty na pozadí zoznamu.</string>
+    <string name="pref_summary__drawer_show_label">Zobrazovať štítky s názvom pod ikonami.</string>
+    <string name="pref_summary__drawer_show_position_indicator">Zobrazovať indikátor strany alebo posuvník v závislosti od štýlu.</string>
+    <string name="pref_summary__drawer_style">Vyberte si medzi stránkovým alebo vertikálnym zoznamom aplikácií.</string>
+    <string name="pref_summary__gesture_feedback">Spätná odozva pri dlhom stlačení položky na ploche.</string>
+    <string name="pref_summary__gesture_quick_swipe">Potiahnutím nahor v dokovacej oblasti otvoriť zoznam aplikácií.</string>
+    <string name="pref_summary__hide_apps">Skryť vybrané aplikácie v spúštači.</string>
+    <string name="pref_summary__icon_pack">Vyberte si nainštalovaný balíček ikon.</string>
+    <string name="pref_summary__icon_size">Veľkost ikon aplikácií.</string>
+    <string name="pref_summary__language">Vyberte jazyk aplikácie. Pre zmenu jazyka reštartujte aplikáciu.</string>
+    <string name="pref_summary__minibar">Nastavenie poradia a viditeľnosti položiek v mini menu.</string>
+    <string name="pref_summary__primary_color">Nastavte primárnu farbu pre aplikáciu.</string>
+    <string name="pref_summary__reset_database">Vymazať dáta pre dokovaciu oblasť a plochu pre vyriešenie problémov.</string>
+    <string name="pref_summary__restart">Reštart spúštača pre prípad nesprávneho fungovania.</string>
+    <string name="pref_summary__search_bar_base_uri">Nastavte URI pre vyhľadávanie na webe.</string>
+    <string name="pref_summary__search_bar_enable">Zobrazovať vyhľadávací panel v hornej časti plochy.</string>
+    <string name="pref_summary__search_bar_force_browser">Vždy používať prehliadač pre vyhľadávanie na webe.</string>
+    <string name="pref_summary__search_bar_show_hidden_apps">Do výsledkov vyhľadávania zahrnúť aj skryté aplikácie.</string>
+    <string name="pref_summary__theme">Nastaviť tému pre celú aplikáciu.</string>
+    <string name="pref_title__about">O aplikácií</string>
+    <string name="pref_title__animation_speed_modifier">Rýchlosť animácie</string>
+    <string name="pref_title__app_drawer">Zoznam aplikácií</string>
+    <string name="pref_title__appearance">Vzhľad</string>
+    <string name="pref_title__backup">Záloha</string>
+    <string name="pref_title__color">Farby</string>
+    <string name="pref_title__date_bar">Lišta dátumu</string>
+    <string name="pref_title__date_bar_date_format">Formát dátumu</string>
+    <string name="pref_title__date_bar_date_format_custom_1">Vlastný formát: Riadok 1</string>
+    <string name="pref_title__date_bar_date_format_custom_2">Vlastný formát: Riadok 2</string>
+    <string name="pref_title__date_bar_text_color">Farba textu</string>
+    <string name="pref_title__debug">Ladenie</string>
+    <string name="pref_title__desktop">Plocha</string>
+    <string name="pref_title__desktop_background_color">Pozadie</string>
+    <string name="pref_title__desktop_folder_color">Pozadie adresára</string>
+    <string name="pref_title__desktop_folder_color_text">Text adresára</string>
+    <string name="pref_title__desktop_fullscreen">Celá obrazovka</string>
+    <string name="pref_title__desktop_indicator_style">Štýl indikátora</string>
+    <string name="pref_title__desktop_rotate">Otáčanie</string>
+    <string name="pref_title__desktop_show_label">Zobrazovať štítky</string>
+    <string name="pref_title__desktop_show_position_indicator">Ukazovateľ polohy</string>
+    <string name="pref_title__dock">Dokovacia oblasť</string>
+    <string name="pref_title__dock_background_color">Pozadie</string>
+    <string name="pref_title__dock_show_label">Zobrazovať štítky</string>
+    <string name="pref_title__drawer_background_color">Pozadie</string>
+    <string name="pref_title__drawer_card_color">Zobrazenie karty</string>
+    <string name="pref_title__drawer_fast_scroll_color">Posuvník</string>
+    <string name="pref_title__drawer_label_color">Štítky</string>
+    <string name="pref_title__drawer_label_font_size">Veľkosť textu štítkov</string>
+    <string name="pref_title__drawer_remember_position">Pamätať si poslednú stranu</string>
+    <string name="pref_title__drawer_show_card_view">Zobrazenie karty</string>
+    <string name="pref_title__drawer_show_label">Zobrazovať štítky</string>
+    <string name="pref_title__drawer_show_position_indicator">Indikátor pozície</string>
+    <string name="pref_title__drawer_style">Štýl</string>
+    <string name="pref_title__feels">Pocity</string>
+    <string name="pref_title__gesture_double_tap">Dvojdotyk</string>
+    <string name="pref_title__gesture_feedback">Spätná väzba pri gestách</string>
+    <string name="pref_title__gesture_pinch">Štipnutie</string>
+    <string name="pref_title__gesture_quick_swipe">Rýchly posun pre zoznam</string>
+    <string name="pref_title__gesture_swipe_down">Potiahnutie dolu</string>
+    <string name="pref_title__gesture_swipe_up">Potiahnutie hore</string>
+    <string name="pref_title__gesture_unpinch">Odštipnutie</string>
+    <string name="pref_title__gestures">Gestá</string>
+    <string name="pref_title__hide_apps">Skryť aplikácie</string>
+    <string name="pref_title__icon_pack">Balíček ikon</string>
+    <string name="pref_title__icons">Ikony</string>
+    <string name="pref_title__inputs">Vstupy</string>
+    <string name="pref_title__interfaces">Rozhrania</string>
+    <string name="pref_title__language">Jazyk</string>
+    <string name="pref_title__miscellaneous">Rôzne</string>
+    <string name="pref_title__others">Iné</string>
+    <string name="pref_title__primary_color">Primárna farba</string>
+    <string name="pref_title__reset_database">Vyčistiť databázu</string>
+    <string name="pref_title__restart">Reštart</string>
+    <string name="pref_title__search_bar">Vyhľadávacia lišta</string>
+    <string name="pref_title__search_bar_base_uri">Vyhľadávač URI</string>
+    <string name="pref_title__search_bar_enable">Vyhľadávacie lišta</string>
+    <string name="pref_title__search_bar_force_browser">Vynútiť hľadanie v prehliadači</string>
+    <string name="pref_title__search_bar_show_hidden_apps">Zobraziť skryté aplikácie</string>
+    <string name="pref_title__settings">Nastavenia</string>
+    <string name="pref_title__size">Veľkosť</string>
+    <string name="pref_title__style">Štýl</string>
+    <string name="pref_title__theme">Téma</string>
+    <string name="project_contribution_info">Informácie o podieľaní sa na projekte</string>
+    <string name="project_license">Projektová licencia</string>
+    <string name="project_team">Projektový tím</string>
+    <string name="rate_the_app">Ohodnotiť aplikáciu</string>
+    <string name="remove">Odobrať</string>
+    <string name="rows">Riadky</string>
+    <string name="search_hint">Hľadať...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Vyhľadávanie"</string>
+    <string name="select_app">Vyberte aplikáciu.</string>
+    <string name="select_icon_pack">Vybrať súbor ikon</string>
+    <string name="select_wallpaper">Vyberte tapetu</string>
+    <string name="source_code">Zdrojový kód</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="toast_app_uninstalled">Applikácia bola odinštalovaná.</string>
+    <string name="toast_backup_error">Niečo sa pokazilo.</string>
+    <string name="toast_backup_success">Hotovo.</string>
+    <string name="toast_device_admin_required">Prosím umožnite správu zariadenia.</string>
+    <string name="toast_icon_pack_error">Nemožno zobrať ikony bez READ_EXTERNAL_STORAGE práv.</string>
+    <string name="toast_not_enough_space">Nedostatok miesta.</string>
+    <string name="translate">Preložiť</string>
+    <string name="uninstall">Odinštalovať</string>
+    <string name="version">Verzia</string>
+    <string name="vertical_scroll_drawer">Zvisle</string>
+    <string name="volume_level_media">Médiá</string>
+    <string name="volume_level_notification">Upozornenie</string>
+    <string name="volume_level_ringtone">Zvonenie</string>
+    <string name="volume_level_system">Systém</string>
+    <string name="widget">Miniaplikácia</string>
+</resources>

@@ -1,0 +1,4 @@
+#Sat Mar 02 20:33:42 EST 2019
+base.0=/Volumes/GoogleDrive/My Drive/Hacking/openlauncher/app/build/intermediates/transforms/dexMerger/flavorDefault/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
