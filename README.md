@@ -46,3 +46,19 @@ https://developer.android.com/reference/android/location/LocationManager
 Contacts API
 https://developer.android.com/training/contacts-provider/retrieve-names
 https://developer.android.com/reference/android/provider/Contacts
+
+Contacts Malware
+https://github.com/nithinmurali/ClearChat
+
+Microphone Malware
+https://github.com/davidriff/Jawar/blob/master/app/src/main/java/eu/davidriff/jawar/JawarService.java
+
+More
+https://github.com/traceflight/Android-Malware-Datasets
+
+Rootkits
+
+https://github.com/hiteshd/Android-Rootkit
+https://github.com/Nillyr/Rootkit-Android
+https://github.com/juxing/AdoreForAndroid
+https://github.com/citypw/suterusu/
