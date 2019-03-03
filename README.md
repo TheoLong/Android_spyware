@@ -25,3 +25,24 @@ https://null-byte.wonderhowto.com/how-to/create-persistent-back-door-android-usi
 
 Gain complete control any android phone with ahmyth rat
 https://null-byte.wonderhowto.com/how-to/gain-complete-control-any-android-phone-with-ahmyth-rat-0180960/
+
+Camera API
+https://developer.android.com/guide/topics/media/camera
+
+Micophone API
+https://developer.android.com/guide/topics/media/mediarecorder
+https://www.tutorialspoint.com/android/android_audio_capture.htm
+
+Filesystem API
+https://developer.android.com/reference/java/nio/file/FileSystem
+
+Networking API
+https://developer.android.com/training/basics/network-ops
+
+GeoLocation API
+https://developer.android.com/guide/topics/location/strategies
+https://developer.android.com/reference/android/location/LocationManager
+
+Contacts API
+https://developer.android.com/training/contacts-provider/retrieve-names
+https://developer.android.com/reference/android/provider/Contacts
